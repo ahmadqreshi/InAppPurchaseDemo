@@ -1,0 +1,38 @@
+{
+  "identifier" : "A769E360",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "15000",
+      "familyShareable" : false,
+      "internalID" : "46E0CE24",
+      "localizations" : [
+        {
+          "description" : "Access to all courses available",
+          "displayName" : "Yearly Subscription",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Access to all courses available",
+          "displayName" : "Yearly Suscription",
+          "locale" : "hi"
+        }
+      ],
+      "productID" : "com.learnapp.learnapp.yearlySubscription",
+      "referenceName" : "Yearly Subscription",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
